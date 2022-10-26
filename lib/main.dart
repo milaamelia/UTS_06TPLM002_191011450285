@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
                   children: [
                     Container(
                       margin: const EdgeInsets.symmetric(vertical: 10),
-                      height: 120,
+                      height: 150,
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.only(
                           topLeft: Radius.circular(30),
@@ -140,7 +140,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                     Container(
                       margin: const EdgeInsets.symmetric(vertical: 10),
-                      height: 120,
+                      height: 150,
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.only(
                           topLeft: Radius.circular(30),
@@ -210,7 +210,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                     Container(
                       margin: const EdgeInsets.symmetric(vertical: 10),
-                      height: 120,
+                      height: 150,
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.only(
                           topLeft: Radius.circular(30),
@@ -280,7 +280,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                     Container(
                       margin: const EdgeInsets.symmetric(vertical: 10),
-                      height: 120,
+                      height: 150,
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.only(
                           topLeft: Radius.circular(30),
@@ -356,7 +356,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                     Container(
                       margin: const EdgeInsets.symmetric(vertical: 10),
-                      height: 120,
+                      height: 150,
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.only(
                           topLeft: Radius.circular(30),
